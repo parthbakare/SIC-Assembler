@@ -1,8 +1,8 @@
 # SIC-Assembler
-SIC 2 pass Assembler written in C++.
+SIC 2 pass Assembler written in C++
 	
-tested on linux ubuntu 16.04 LTS.
+tested on linux ubuntu 16.04 LTS
 	
-compile: g++ sic.C.
+compile: g++ sic.cpp
 	
-run: ./a.out <input_file_name> <output_file_name>.
+run: ./a.out <input_file_name> <output_file_name>
